@@ -17,7 +17,6 @@
 main{
     display: flex;
     margin: 5rem;
-    gap: 6rem; 
     justify-content: space-evenly;
     align-items: center;
 }
