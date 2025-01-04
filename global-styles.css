@@ -14,18 +14,16 @@
   background-image: linear-gradient(to bottom, #19317f, #005ba5, #0085c2, #16afd8, #63d8eb);
  } 
  h1{
-  border: black double 4px;
+  border: rgb(0, 0, 0) double 4px;
   margin-right: 1200px;
  }
  p{
   font-size: medium;
  }
- img{
-  width: 400px;
- }
  a{
   text-decoration: none;
  }
+ 
  
 
  
