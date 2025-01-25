@@ -4,3 +4,16 @@
 ul{
     font-size: small;
 }
+.center{
+    text-align: center;
+}
+.about-me-sub-container{
+    text-align: left;
+    max-width: 80%;
+    display: block;
+    margin: auto;
+    img{
+        display: block;
+        margin: auto;
+    }
+}
