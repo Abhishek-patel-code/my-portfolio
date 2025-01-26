@@ -1,0 +1,13 @@
+.menu-fix-content{
+    display: flex;
+    max-width: 80vw;
+}
+.image-fix{
+    width: 200px;
+}
+.pizza-container{
+    width: 350px;
+}
+main{
+    max-width: 100%;
+}
