@@ -25,21 +25,16 @@ main{
     justify-content: space-evenly;
     align-items: center;
 }
-navbar{
-    display: flex;
-    justify-content:space-evenly;
-    height: 3rem;
-    align-content: center;
-    align-items: flex-end;
-    
-}
-nav{
+.intro-section{
     a{
-        text-decoration: none;
-        padding-right: 1rem;
+        height: 2rem;
+        width: 6rem;
+        color: white;
+        background-color:#0000ff8c;
+        border-radius: 7px;
     }
 }
-button{
+/* button{
     height: 2rem;
     width: 6rem;
     border: none;
@@ -48,10 +43,11 @@ button{
     color: white;
     font-weight: 4aaaa00;
     text-decoration: none;
+    padding-bottom: 1rem;
 }
 /* button:hover{
     color: white;
 } */
  #button1 a:hover{
     color: white;
- }
+ } */
