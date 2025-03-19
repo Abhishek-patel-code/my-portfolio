@@ -1,0 +1,28 @@
+ #styling-text{
+    font-size: small;
+}
+.headings-0{
+    text-align: center;
+}
+navbar{
+    display: flex;
+    justify-content:space-evenly;
+    height: 3rem;
+    align-content: center;
+    align-items: flex-end;
+  }
+  
+nav{
+    a{
+        text-decoration: none;
+        padding-right: 1rem;
+    }
+  }
+  .my-name{
+    padding-right: 10rem;
+} 
+h2{
+  color: rgb(250, 26, 1);
+}
+
+
